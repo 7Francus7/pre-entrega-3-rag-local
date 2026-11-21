@@ -1,0 +1,9 @@
+.venv/
+.env
+.env.*
+!.env.example
+.models/
+vectorstore/
+__pycache__/
+*.pyc
+
